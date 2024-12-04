@@ -25,6 +25,10 @@ public class Main {
     Car oldHonda = new Car();
     Car S10 = new Car("Chevy", 500, "CJ");
 
+    Bike Mongoose = new Bike();
+
+    BigWheel FischerPriceToy = new BigWheel();
+
     Person CJ = new Person();
     CJ.buyVehicles(oldHonda);
     CJ.buyVehicles(S10);
